@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache and crash files
+UserSettings/
+sysinfo.txt
+*.stacktrace
+
+# Visual Studio files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+
+# Unity generated solution files
+*.slnx
+*.unityproj
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.old
+*.backup
+
+# Keep Git ignore file
+!.gitignore
